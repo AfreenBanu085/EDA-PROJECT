@@ -6,7 +6,7 @@ Importing reqired libraries
 Scraping the data from "Flipkart.com" website
 Cleaning the data
 Data visualization
-Conclusion 
+## Conclusion 
 The data which we are having is useful to the customer.
 Before buying a Speaker every customer will be having some criteria like Brand, Price, discount and reviews or ratings.
 Speaker prices ranges from  340  to 7000.
